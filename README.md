@@ -24,7 +24,7 @@ I wanted to understand how JavaScript handles real user interactions — adding,
 
 ## Project Structure
 To-Do List App_2/
-├── Assets/
+├── assets/
 ├── index.html
 ├── style.css
 ├── script.js
