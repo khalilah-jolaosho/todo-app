@@ -26,7 +26,7 @@ I wanted to understand how JavaScript handles real user interactions — adding,
 To-Do List App_2/
 ├── Assets/
 ├── index.html
-├── Style.css
-├── Script.js
+├── style.css
+├── script.js
 ├── todo-screenshot.png
 └── README.md
